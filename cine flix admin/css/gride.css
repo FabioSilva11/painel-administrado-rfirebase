@@ -1,0 +1,13 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+*{
+box-sizing: border-box;
+}
+
+.col-4{
+    width: 32.22%;
+    float: left;
+    margin: 2px;
+}
